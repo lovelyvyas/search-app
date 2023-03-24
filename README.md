@@ -6,7 +6,7 @@ This is a simple search application that allows you to search for data stored in
 Before you start using the application, make sure you have the following:<br />
 - A Firebase account and a Firebase Realtime Database set up<br />
 - PHP installed on your system<br />
-- A web server to host the PHP files (e.g., Apache)
+- A web server to host the PHP files (e.g. Apache)
 
 <h3>Installation</h3>
 - Clone this repository to your local machine<br />
