@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+  }
+  
+  .search-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .search-container h1 {
+    margin: 0;
+    margin-bottom: 20px;
+  }
+  
+  .search-container input[type=text] {
+    padding: 10px;
+    width: 50%;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    background-color: lightgray;
+  }
+  
+  .search-container button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  #results {
+    padding: 20px;
+    width: 70%;
+    margin: 0 auto;
+  }
+  
+  #results table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  #results th, #results td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  #results th {
+    background-color: #f2f2f2;
+    text-align: left;
+  }
